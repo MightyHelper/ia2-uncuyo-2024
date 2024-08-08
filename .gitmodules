@@ -1,0 +1,3 @@
+[submodule "ia2"]
+	path = ia2
+	url = git@github.com:rodralez/ia2.git
